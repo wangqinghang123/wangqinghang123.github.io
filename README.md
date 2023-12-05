@@ -9,14 +9,14 @@ This is Qinghang Wang's personal [homepage](https://zejiang-unsw.github.io/).
 
 ## Research Interests
 * High-speed extruded magnesium alloys. 
-* Sheet formability
+* Sheet formability of magnesium alloys
 
 ## Journal Publications
-Jiang, Z., & Johnson, F. (2023). "A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain." Monthly Weather Review. in press. https://doi.org/10.1175/MWR-D-22-0217.1
-Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. doi:https://doi.org/10.1016/J.JHYDROL.2021.126816
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. doi:https://doi.org/10.1029/2019WR026962
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. doi:https://doi.org/10.1016/j.advwatres.2019.103430
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. doi:https://doi.org/10.1007/s00704-018-2617-z
-## For more information
-More info about me can be found in [CV](https://zejiang-unsw.github.io/cv/).
+### 2023
+1)	Qinghang Wang* et al., Achieving extremely high speed extrusion and medium strength in a Mg–Bi–Si ternary alloy. J. Mater. Res. Technol. 27 (2023) 6997-7002.
+2)	Qinghang Wang* et al., Low-temperature high-speed extrusion of a multicomponent Mg–Bi base alloy and its heat resistance during hot tension. J. Alloys Compd. 968 (2023) 172187.
+3)	Haowei Zhai, Li Wang, Qinghang Wang* et al., Achieving high strength near 400 MPa in an ultra-fine grained Mg-Bi-Ca ternary alloy via low-temperature extrusion. J. Mater. Res. Technol. 26 (2023) 3973 -3991.
+4)	Yang Chen, Qinghang Wang* et al., Deformation mechanisms of as-extruded Mg–3Bi–1Ca (wt.%) alloy during room-temperature tension. Mater. Sci. Eng. A 875 (2023) 145119.
+5)	Qinghang Wang et al., Simultaneous enhancement of strength and ductility in friction stir welded AZ31 alloy via multi-pass hot-rolling and subsequent annealing. J. Mater. Res. Technol. 23 (2023) 5181-5192.
+6)	Qinghang Wang et al., Effect of Bi Addition on the Heat Resistance of As-Extruded AZ31 Magnesium Alloy. Materials 16 (2023) 996. 
+
