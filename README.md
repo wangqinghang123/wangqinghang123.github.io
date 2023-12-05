@@ -19,14 +19,14 @@ This is Qinghang Wang's personal [homepage](https://wangqinghang123.github.io).
 * Sheet formability of magnesium alloys
 
 ## Journal Publications
-### 2023
+## 2023
 * **Qinghang Wang*** et al., Achieving extremely high speed extrusion and medium strength in a Mg–Bi–Si ternary alloy. J. Mater. Res. Technol. 27 (2023) 6997-7002.
 * **Qinghang Wang*** et al., Low-temperature high-speed extrusion of a multicomponent Mg–Bi base alloy and its heat resistance during hot tension. J. Alloys Compd. 968 (2023) 172187.
 * Haowei Zhai, Li Wang, **Qinghang Wang*** et al., Achieving high strength near 400 MPa in an ultra-fine grained Mg-Bi-Ca ternary alloy via low-temperature extrusion. J. Mater. Res. Technol. 26 (2023) 3973 -3991.
 * Yang Chen, **Qinghang Wang*** et al., Deformation mechanisms of as-extruded Mg–3Bi–1Ca (wt.%) alloy during room-temperature tension. Mater. Sci. Eng. A 875 (2023) 145119.
 * **Qinghang Wang** et al., Simultaneous enhancement of strength and ductility in friction stir welded AZ31 alloy via multi-pass hot-rolling and subsequent annealing. J. Mater. Res. Technol. 23 (2023) 5181-5192.
 * **Qinghang Wang** et al., Effect of Bi Addition on the Heat Resistance of As-Extruded AZ31 Magnesium Alloy. Materials 16 (2023) 996.
-### 2022
+## 2022
 * **Qinghang Wang*** et al., A new strong and ductile multicomponent rare-earth free Mg–Bi-based alloy achieved by extrusion and subsequent short-term annealing. Mater. Sci. Eng. A 860 (2022) 144309.
 * **Qinghang Wang*** et al., Establishment of constitutive model and analysis of dynamic recrystallization kinetics of Mg-Bi-Ca alloy during hot deformation. Materials 15 (2022) 7986. 
 * **Qinghang Wang*** et al., Hot-deformation kinetics analysis and extrusion parameter optimization of a dilute rare-earth free magnesium alloy. J. Magnes. Alloys 860 (2022) 144309. 
