@@ -2,10 +2,10 @@
 This is Qinghang Wang's personal [homepage](https://zejiang-unsw.github.io/).
 
 ## Education Background
-* 2023.08-Now                Yangzhou University，School of Mechanical Engineering, Assocaitae professor
-* 2020.10-2023.08            Yangzhou University，School of Mechanical Engineering, Lecturer
-* 2014.09-2020.09           Chongqing university，Materials Science and Engineering, Ph. D
-* 2010.09-2014.06    Inner Mongolia University of Science & Technology, Metal Materials Engineering, Bachelor
+* 2023.08-Now                Yangzhou University,  School of Mechanical Engineering,  Assocaitae professor
+* 2020.10-2023.08            Yangzhou University,  School of Mechanical Engineering,  Lecturer
+* 2014.09-2020.09           Chongqing university,  Materials Science and Engineering, Ph. D
+* 2010.09-2014.06    Inner Mongolia University of Science & Technology,  Metal Materials Engineering,  Bachelor
 
 ## Research Interests
 * High-speed extruded magnesium alloys. 
