@@ -8,7 +8,7 @@ This is Qinghang Wang's personal [homepage](https://zejiang-unsw.github.io/).
 * 2010.09-2014.06    Inner Mongolia University of Science & Technology,  Metal Materials Engineering,  Bachelor
 
 ## Chaired Projects
-* National Natural Science Foundation of China (52204407)
+* National Natural Science Foundation of China (No. 52204407)
 * Natural Science Foundation of Jiangsu Province (BK20220595)
 * China Postdoctoral Science Foundation (2022M723689)
 * Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX22-1720)
