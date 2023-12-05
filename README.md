@@ -9,10 +9,10 @@ This is Qinghang Wang's personal [homepage](https://zejiang-unsw.github.io/).
 
 ## Chaired Projects
 * National Natural Science Foundation of China (No. 52204407)
-* Natural Science Foundation of Jiangsu Province (BK20220595)
-* China Postdoctoral Science Foundation (2022M723689)
-* Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX22-1720)
-* Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX23-1914)
+* Natural Science Foundation of Jiangsu Province (No. BK20220595)
+* China Postdoctoral Science Foundation (No. 2022M723689)
+* Postgraduate Research & Practice Innovation Program of Jiangsu Province (No. SJCX22-1720)
+* Postgraduate Research & Practice Innovation Program of Jiangsu Province (No. SJCX23-1914)
 
 ## Research Interests
 * High-speed extruded magnesium alloys
