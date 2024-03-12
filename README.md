@@ -19,7 +19,9 @@ This is Qinghang Wang's personal [homepage](https://wangqinghang123.github.io).
 * Sheet formability of magnesium alloys
 
 ## Journal Publications
-I have published more than 50 SCI papers, of which 28 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
+I have published more than 50 SCI papers, of which 29 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
+### 2024
+* **Qinghang Wang*** et al., Extrusion limit diagram of Mg–5Bi–3Al–1Zn alloy and effects of extrusion parameters on its microstructures and mechanical properties. J. Mater. Res. Technol. 29 (2024) 5166–5179.
 ### 2023
 * **Qinghang Wang*** et al., Achieving extremely high speed extrusion and medium strength in a Mg–Bi–Si ternary alloy. J. Mater. Res. Technol. 27 (2023) 6997-7002.
 * **Qinghang Wang*** et al., Low-temperature high-speed extrusion of a multicomponent Mg–Bi base alloy and its heat resistance during hot tension. J. Alloys Compd. 968 (2023) 172187.
