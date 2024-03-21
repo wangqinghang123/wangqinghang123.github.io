@@ -3,6 +3,7 @@ This is Qinghang Wang's personal [homepage](https://wangqinghang123.github.io).
 
 ## Education Background
 * 2023.08-Now                Yangzhou University,  School of Mechanical Engineering,  Assocaitae professor
+* 2022.07-2024.07            Hebei University of Technology & CICIT Dicastal. CO,  Psot-doctoral
 * 2020.10-2023.08            Yangzhou University,  School of Mechanical Engineering,  Lecturer
 * 2014.09-2020.09           Chongqing university,  Materials Science and Engineering, Ph. D
 * 2010.09-2014.06    Inner Mongolia University of Science & Technology,  Metal Materials Engineering,  Bachelor
