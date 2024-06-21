@@ -32,22 +32,23 @@ I have published more than 50 SCI papers, of which 30 published as the first aut
 * **Qinghang Wang** et al., Simultaneous enhancement of strength and ductility in friction stir welded AZ31 alloy via multi-pass hot-rolling and subsequent annealing. J. Mater. Res. Technol. 23 (2023) 5181-5192.
 * **Qinghang Wang** et al., Effect of Bi Addition on the Heat Resistance of As-Extruded AZ31 Magnesium Alloy. Materials 16 (2023) 996.
 ### 2022
-* **Qinghang Wang*** et al., A new strong and ductile multicomponent rare-earth free Mg–Bi-based alloy achieved by extrusion and subsequent short-term annealing. Mater. Sci. Eng. A 860 (2022) 144309.
-* **Qinghang Wang*** et al., Establishment of constitutive model and analysis of dynamic recrystallization kinetics of Mg-Bi-Ca alloy during hot deformation. Materials 15 (2022) 7986. 
-* **Qinghang Wang*** et al., Hot-deformation kinetics analysis and extrusion parameter optimization of a dilute rare-earth free magnesium alloy. J. Magnes. Alloys 860 (2022) 144309. 
-* **Qinghang Wang*** et al., Exploiting an as-extruded fine-grained Mg-Bi-Mn alloy with strength-ductility synergy via dilute Zn addition. J. Alloys Compd. 924 (2022) 166337. 
-* **Qinghang Wang*** et al., Relating initial texture to deformation behavior during cold rolling and static recrystallization upon subsequent annealing of an extruded WE43 alloy. Acta Metall. Sin-Engl. 35 (2022) 1793-1811. 
-* Haowei Zhai, **Qinghang Wang*** et al., Designing a mixed texture in Mg/Mg laminated composite via bimetal co-extrusion to ameliorate the mechanical anisotropy. Metals 12 (2022) 637.
-* **Qinghang Wang*** et al., Novel Mg-Bi-Mn wrought alloys: The effects of extrusion temperature and Mn addition on their microstructures and mechanical properties. J. Magnes. Alloys 10 (2022) 2588-2606. 
-* **Qinghang Wang*** et al., Grain size dependence of annealing strengthening of an extruded Mg-Gd-Zn alloy subjected to pre-compression deformation. J. Magnes. Alloys 10 (2022) 3576-3588.
+* **Qinghang Wang**, Haowei Zhai, Lintao Liu, Zhaoyang Jin, Lingyu Zhao, Junjie He, Bin Jiang, Exploiting an as-extruded fine-grained Mg-Bi-Mn alloy with strength-ductility synergy via dilute Zn addition. Journal of Alloys and Compounds, 924 (2022) 166337.
+* Haowei Zhai, **Qinghang Wang**, Bin Jiang, Yan Song, Guangjie Xue, Zhaoyang Jin, Designing a Mixed Texture in Mg/Mg Laminated Composite via Bimetal Co-Extrusion to Ameliorate the Mechanical Anisotropy. Metals, 12 (2022) 637.
+* **Qinghang Wang**, Haowei Zhai, Hongbo Xia, Lintao Liu, Junjie He, Dabiao Xia, Hong Yang, Bin Jiang, Relating Initial Texture to Deformation Behavior During Cold Rolling and Static Recrystallization Upon Subsequent Annealing of an Extruded WE43 Alloy. Acta Metallurgica Sinica (English Letters), 35 (2022) 1793-1811.
+* **Qinghang Wang**, Siyuan Chen, Bin Jiang, Zhaoyang Jin, Lingyu Zhao, Junjie He, Dingfei Zhang, Guangsheng Huang, Fusheng Pan, Grain size dependence of annealing strengthening of an extruded Mg-Gd-Zn alloy subjected to pre-compression deformation. Journal of Magnesium and Alloys, 10 (2022) 3576-3588.
+* **Qinghang Wang**, Haowei Zhai, Lintao Liu, Hongbo Xia, Bin Jiang, Jun Zhao, Daolun Chen, Fusheng Pan, Novel Mg-Bi-Mn wrought alloys: The effects of extrusion temperature and Mn addition on their microstructures and mechanical properties. Journal of Magnesium and Alloys, 10 (2022) 2588-2606.
+* **Qinghang Wang**, Haowei Zhai, Li Wang, Jun Xu, Yang Chen, Bin Jiang, A new strong and ductile multicomponent rare-earth free Mg–Bi-based alloy achieved by extrusion and subsequent short-term annealing. Materials Science and Engineering: A, 860 (2022) 144309.
+
 ### 2021
 * **Qinghang Wang**, Bin Jiang, Aitao Tang, Chao He, Dingfei Zhang, Jiangfeng Song, Tianhao Yang, Guangsheng Huang, Fusheng Pan, Formation of the elliptical texture and its effect on the mechanical properties and stretch formability of dilute Mg-Sn-Y sheet by Zn addition. Materials Science and Engineering: A, 746 (2019) 259-275.
 ### 2020
-* **Qinghang Wang** et al., Reduction per pass effect on texture traits and mechanical anisotropy of Mg-Al-Zn-Mn-Ca alloy subjected to unidirectional and cross rolling. J. Mater. Res. Technol. 9 (2020) 9607-9619. 
-* **Qinghang Wang** et al., Pre-strain effect on twinning and de-twinning behaviors of Mg-3Li alloy traced by quasi-in-situ EBSD. Mater. Sci. Eng. A 798 (2020) 140069. 
-* **Qinghang Wang** et al., Unveiling annealing texture formation and static recrystallization kinetics of hot-rolled Mg-Al-Zn-Mn-Ca alloy. J. Mater. Sci. Technol. 43 (2020) 104-118. 
-* **Qinghang Wang** et al., Fabrication of Mg/Mg composite with sleeve-core structure and its effect on room-temperature yield asymmetry via bimetal casting-co-extrusion. Mater. Sci. Eng. A 769 (2020) 138476.
-* **Qinghang Wang** et al., Twin nucleation, twin growth and their effects on annealing strengths of Mg-Al-Zn-Mn sheets experienced different pre-compressive strains. J. Alloys Compd. 815 (2020) 152310.
+* **Qinghang Wang**, Bin Jiang, Jun Zhao, Dingfei Zhang, Guangsheng Huang, Fusheng Pan, Pre-strain effect on twinning and de-twinning behaviors of Mg-3Li alloy traced by quasi-in-situ EBSD. Materials Science and Engineering: A, 798 (2020) 140069.
+* **Qinghang Wang**, Bin Jiang, Lintao Liu, Qingshan Yang, Dabiao Xia, Dingfei Zhang, Guangsheng Huang, Fusheng Pan, Reduction per pass effect on texture traits and mechanical anisotropy of Mg–Al–Zn–Mn–Ca alloy subjected to unidirectional and cross rolling. Journal of Materials Research and Technology, 9 (2020) 9607-9619.
+* **Qinghang Wang**, Bin Jiang, Aitao Tang, Jie Fu, Zhongtao Jiang, Haoran Sheng, Dingfei Zhang, Guangsheng Huang, Fusheng Pan, Unveiling annealing texture formation and static recrystallization kinetics of hot-rolled Mg-Al-Zn-Mn-Ca alloy. Journal of Materials Science & Technology, 43 (2020) 104-118.
+* **Qinghang Wang**, Lintao Liu, Bin Jiang, Jie Fu, Aitao Tang, Zhongtao Jiang, Haoran Sheng, Dingfei Zhang, Guangsheng Huang, Fusheng Pan, Twin nucleation, twin growth and their effects on annealing strengths of Mg–Al–Zn–Mn sheets experienced different pre-compressive strains. Journal of Alloys and Compounds, 815 (2020) 152310.
+* **Qinghang Wang**, Yan Song, Bin Jiang, Jie Fu, Aitao Tang, Haoran Sheng, Jiangfeng Song, Dingfei Zhang, Zhongtao Jiang, Guangsheng Huang, Fusheng Pan, Fabrication of Mg/Mg composite with sleeve-core structure and its effect on room-temperature yield asymmetry via bimetal casting-co-extrusion. Materials Science and Engineering: A, 769 (2020) 138476.
+* **Qinghang Wang**, Bin Jiang, Aitao Tang, Jie Fu, Zhongtao Jiang, Haoran Sheng, Dingfei Zhang, Guangsheng Huang, Fusheng Pan, Unveiling annealing texture formation and static recrystallization kinetics of hot-rolled Mg-Al-Zn-Mn-Ca alloy. Journal of Materials Science & Technology, 43 (2020) 104-118.
+
 ### 2019
 * **Qinghang Wang**, Bin Jiang, Aitao Tang, Chao He, Dingfei Zhang, Jiangfeng Song, Tianhao Yang, Guangsheng Huang, Fusheng Pan, Formation of the elliptical texture and its effect on the mechanical properties and stretch formability of dilute Mg-Sn-Y sheet by Zn addition. Materials Science and Engineering: A, 746 (2019) 259-275.
 ### 2018
