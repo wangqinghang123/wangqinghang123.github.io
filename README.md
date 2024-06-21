@@ -1,4 +1,5 @@
-E-mail: wangqinghang@yzu.edu.cn
+# Qinghang Wang
+![image](https://github.com/wangqinghang123/wangqinghang123.github.io/assets/152872447/47e3a55f-e60e-4247-9418-89b49dfe0fa5) E-mail: wangqinghang@yzu.edu.cn
 
 ## Education Background
 * 2023.08-Now                Yangzhou University,  School of Mechanical Engineering,  Assocaitae professor
