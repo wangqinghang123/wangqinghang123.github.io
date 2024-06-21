@@ -1,4 +1,3 @@
-# Qinghang Wang （王庆航）
 E-mail: wangqinghang@yzu.edu.cn
 
 ## Education Background
