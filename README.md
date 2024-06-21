@@ -26,7 +26,6 @@ I have published more than 60 SCI papers, of which 33 published as the first aut
 * Xu Qin, Xinqian Zhao, Zhaoyang Jin, **Qinghang Wang***, Yield Stress and Elongation Prediction and Process Parameter Optimization of Two C-Mn Steels Based on XGBoost and Non-dominated Sorting Genetic Algorithm-II. MATERIALS SCIENCE (MEDŽIAGOTYRA), 2024, http://doi.org/10.5755/j02.ms.36556.
 * Li Wang, Shouxin Xia, Haowei Zhai, Xu Qin, Jiaze Xu, Jun Xu, Bin Jiang, Weiying Huang, Chaoqiang Sun, Yuhui Zhang, **Qinghang Wang***, Developing a high-speed-extruded BMZQ5100 alloy with higher strength and microstructural thermal stability than AZ91 alloy. Journal of Alloys and Compounds, 987 (2024) 174190.
 * **Qinghang Wang***, Li Wang, Jiaze Xu, Haowei Zhai, Yang Chen, Shouxin Xia, Xu Qin, Yongfei Li, Bin Jiang, Daolun Chen, Extrusion limit diagram of Mg–5Bi–3Al–1Zn alloy and effects of extrusion parameters on its microstructures and mechanical properties. Journal of Materials Research and Technology, 29 (2024) 5166-5179.
-
 ### 2023
 * **Qinghang Wang***, Haowei Zhai, Zhaoyang Jin, Junjie He, Qin Yang, Wenjun Liu, Yulong Li, Daolun Chen, Hot-deformation kinetics analysis and extrusion parameter optimization of a dilute rare-earth free magnesium alloy. Journal of Magnesium and Alloys, 11 (2023) 3302-3322.
 * **Qinghang Wang***, Li Wang, Haowei Zhai, Shouxin Xia, Tieqiang Chen, Haifeng Liu, Bin Jiang, Achieving extremely high speed extrusion and medium strength in a Mg–Bi–Si ternary alloy. Journal of Materials Research and Technology, 27 (2023) 6997-7002.
