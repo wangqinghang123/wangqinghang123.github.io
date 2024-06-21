@@ -1,5 +1,5 @@
-# Qinghang Wang
-This is Qinghang Wang's personal [homepage](https://wangqinghang123.github.io).
+# Qinghang Wang （王庆航）
+E-mail: wangqinghang@yzu.edu.cn
 
 ## Education Background
 * 2023.08-Now                Yangzhou University,  School of Mechanical Engineering,  Assocaitae professor
