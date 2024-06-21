@@ -18,6 +18,7 @@ This is Qinghang Wang's personal [homepage](https://wangqinghang123.github.io).
 ## Research Interests
 * High-speed extruded magnesium alloys
 * Sheet formability of magnesium alloys
+* Machine learning-based magnesium alloy design
 
 ## Journal Publications
 I have published more than 60 SCI papers, of which 33 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
