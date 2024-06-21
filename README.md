@@ -1,9 +1,9 @@
-# Qinghang Wang (王庆航)
+**Qinghang Wang (王庆航)**
 ![image](https://github.com/wangqinghang123/wangqinghang123.github.io/assets/152872447/47e3a55f-e60e-4247-9418-89b49dfe0fa5) 
 E-mail: wangqinghang@yzu.edu.cn
 
 ## Education Background
-* 2023.08-Now                Yangzhou University,  School of Mechanical Engineering,  Assocaitae professor
+* 2023.08-Now                Yangzhou University,  School of Mechanical Engineering,  Associate professor
 * 2022.07-2024.07            Hebei University of Technology & CICIT Dicastal. Co.,  Post-doctoral
 * 2020.10-2023.08            Yangzhou University,  School of Mechanical Engineering,  Lecturer
 * 2014.09-2020.09           Chongqing university,  Materials Science and Engineering, Ph. D
