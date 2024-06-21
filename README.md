@@ -41,7 +41,7 @@ I have published more than 50 SCI papers, of which 30 published as the first aut
 * **Qinghang Wang*** et al., Novel Mg-Bi-Mn wrought alloys: The effects of extrusion temperature and Mn addition on their microstructures and mechanical properties. J. Magnes. Alloys 10 (2022) 2588-2606. 
 * **Qinghang Wang*** et al., Grain size dependence of annealing strengthening of an extruded Mg-Gd-Zn alloy subjected to pre-compression deformation. J. Magnes. Alloys 10 (2022) 3576-3588.
 ### 2021
-* **Qinghang Wang*** et al., Strategies for enhancing the room-temperature stretch formability of magnesium alloy sheets: a review. J. Mater. Sci. 56 (2021) 12965-12998.
+* **Qinghang Wang**, Bin Jiang, Aitao Tang, Chao He, Dingfei Zhang, Jiangfeng Song, Tianhao Yang, Guangsheng Huang, Fusheng Pan, Formation of the elliptical texture and its effect on the mechanical properties and stretch formability of dilute Mg-Sn-Y sheet by Zn addition. Materials Science and Engineering: A, 746 (2019) 259-275.
 ### 2020
 * **Qinghang Wang** et al., Reduction per pass effect on texture traits and mechanical anisotropy of Mg-Al-Zn-Mn-Ca alloy subjected to unidirectional and cross rolling. J. Mater. Res. Technol. 9 (2020) 9607-9619. 
 * **Qinghang Wang** et al., Pre-strain effect on twinning and de-twinning behaviors of Mg-3Li alloy traced by quasi-in-situ EBSD. Mater. Sci. Eng. A 798 (2020) 140069. 
@@ -49,17 +49,17 @@ I have published more than 50 SCI papers, of which 30 published as the first aut
 * **Qinghang Wang** et al., Fabrication of Mg/Mg composite with sleeve-core structure and its effect on room-temperature yield asymmetry via bimetal casting-co-extrusion. Mater. Sci. Eng. A 769 (2020) 138476.
 * **Qinghang Wang** et al., Twin nucleation, twin growth and their effects on annealing strengths of Mg-Al-Zn-Mn sheets experienced different pre-compressive strains. J. Alloys Compd. 815 (2020) 152310.
 ### 2019
-* **Qinghang Wang** et al., Formation of the elliptical texture and its effect on the mechanical properties and stretch formability of dilute Mg-Sn-Y sheet by Zn addition. Mater. Sci. Eng. A 746 (2019) 259-275.
+* **Qinghang Wang**, Bin Jiang, Aitao Tang, Chao He, Dingfei Zhang, Jiangfeng Song, Tianhao Yang, Guangsheng Huang, Fusheng Pan, Formation of the elliptical texture and its effect on the mechanical properties and stretch formability of dilute Mg-Sn-Y sheet by Zn addition. Materials Science and Engineering: A, 746 (2019) 259-275.
 ### 2018
-* **Qinghang Wang** et al., An investigation on microstructure, texture and formability of AZ31 sheet processed by asymmetric porthole die extrusion. Mater. Sci. Eng. A 720 (2018) 85-97. 
-* **Qinghang Wang** et al., Enhanced stretch formability at room temperature for Mg-Al-Zn/Mg-Y laminated composite via porthole die extrusion. Mater. Sci. Eng. A 731 (2018) 184-194. 
-* **Qinghang Wang** et al., A micro-alloyed Mg-Sn-Y alloy with high ductility at room temperature. Mater. Sci. Eng. A 735 (2018) 131-144. 
-* **Qinghang Wang** et al., A good balance between ductility and stretch formability of dilute Mg-Sn-Y sheet at room temperature. Mater. Sci. Eng. A 736 (2018) 404-416.
+* **Qinghang Wang**, Yaqun Shen, Bin Jiang, Aitao Tang, Jiangfeng Song, Zhongtao Jiang, Tianhao Yang, Guangsheng Huang, Fusheng Pan, Enhanced stretch formability at room temperature for Mg-Al-Zn/Mg-Y laminated composite via porthole die extrusion. Materials Science and Engineering: A, 731 (2018) 184-194.
+* **Qinghang Wang**, Yaqun Shen, Bin Jiang, Aitao Tang, Yanfu Chai, Jiangfeng Song, Tianhao Yang, Guangsheng Huang, Fusheng Pan, A good balance between ductility and stretch formability of dilute Mg-Sn-Y sheet at room temperature. Materials Science and Engineering: A, 736 (2018) 404-416.
+* **Qinghang Wang**, Yaqun Shen, Bin Jiang, Aitao Tang, Jiangfeng Song, Zhongtao Jiang, Tianhao Yang, Guangsheng Huang, Fusheng Pan, A micro-alloyed Mg-Sn-Y alloy with high ductility at room temperature. Materials Science and Engineering: A, 735 (2018) 131-144.
+* **Qinghang Wang**, Jiangfeng Song, Bin Jiang, Aitao Tang, Yanfu Chai, Tianhao Yang, Guangsheng Huang, Fusheng Pan, An investigation on microstructure, texture and formability of AZ31 sheet processed by asymmetric porthole die extrusion. Materials Science and Engineering: A, 720 (2018) 85-97.
 ### 2017
-* **Qinghang Wang** et al., Ameliorating the mechanical properties of magnesium alloy: Role of texture. Mater. Sci. Eng. A 689 (2017) 395-403.
+* **Qinghang Wang**, Bin Jiang, Aitao Tang, Shaoxing Ma, Zhongtao Jiang, Yanfu Chai, Bo Liu, Fusheng Pan, Ameliorating the mechanical properties of magnesium alloy: Role of texture. Materials Science and Engineering: A, 689 (2017) 395-403.
 ### 2016
-* **Qinghang Wang** et al., Tailoring the textures and mechanical properties of AZ31 alloy sheets using asymmetric composite extrusion. Mater. Sci. Eng. A 673 (2016) 606-615.
-* **Qinghang Wang** et al., An effective approach called the composite extrusion to improve the mechanical properties of AZ31 magnesium alloy sheets. Mater. Sci. Eng. A 655 (2016) 339-345.
+* **Qinghang Wang**, Bin Jiang, Yanfu Chai, Bo Liu, Shaoxing Ma, Jun Xu, Fusheng Pan, Tailoring the textures and mechanical properties of AZ31 alloy sheets using asymmetric composite extrusion. Materials Science and Engineering: A, 673 (2016) 606-615.
+* Fusheng Pan, **Qinghang Wang**, Bin Jiang, Junjie He, Yanfu Chai, Jun Xu, An effective approach called the composite extrusion to improve the mechanical properties of AZ31 magnesium alloy sheets. Materials Science and Engineering: A, 655 (2016) 339-345
 
 
 
