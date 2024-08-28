@@ -22,7 +22,7 @@ E-mail: wangqinghang@yzu.edu.cn
 * Machine learning-based magnesium alloy design
 
 ## Journal Publications
-I have published more than 60 SCI papers, of which 33 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
+I have published more than 60 SCI papers, of which 35 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
 ### 2024
 * Li Wang, **Qinghang Wang***, Shouxin Xia, Xu Qin, Haowei Zhai, Lingyu Zhao, Ying Zeng, Bin Jiang, Achieving low-temperature superplasticity of a coarse-grained BAZ531 magnesium alloy. Materials Science and Engineering: A, 914 (2024) 147171.
 * Xu Qin, Haowei Zhai, Li Wang, Shouxin Xia, Bin Jiang, **Qinghang Wang***, A novel multimodal feature fusion convolutional neural network to predict the mechanical properties of magnesium alloys. Materials Letters, 370 (2024) 136863.
