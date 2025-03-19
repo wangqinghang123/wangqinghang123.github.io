@@ -75,7 +75,14 @@ learning, Journal of Materials Informatics, 5 (2025) 13.
 * **Qinghang Wang**, Bin Jiang*, Aitao Tang, Shaoxing Ma, Zhongtao Jiang, Yanfu Chai, Bo Liu, Fusheng Pan, Ameliorating the mechanical properties of magnesium alloy: Role of texture, Materials Science and Engineering: A, 689 (2017) 395-403.
 ### 2016
 * **Qinghang Wang**, Bin Jiang*, Yanfu Chai, Bo Liu, Shaoxing Ma, Jun Xu, Fusheng Pan, Tailoring the textures and mechanical properties of AZ31 alloy sheets using asymmetric composite extrusion, Materials Science and Engineering: A, 673 (2016) 606-615.
-* Fusheng Pan, **Qinghang Wang**, Bin Jiang, Junjie He, Yanfu Chai, Jun Xu, An effective approach called the composite extrusion to improve the mechanical properties of AZ31 magnesium alloy sheets, Materials Science and Engineering: A, 655 (2016) 339-345
+* Fusheng Pan, **Qinghang Wang**, Bin Jiang, Junjie He, Yanfu Chai, Jun Xu, An effective approach called the composite extrusion to improve the mechanical properties of AZ31 magnesium alloy sheets, Materials Science and Engineering: A, 655 (2016) 339-345.
+
+## Patents
+* 蒋斌，徐军，**王庆航**，赵俊，柴炎福，黄光胜，张丁非，王敬丰，彭建，潘复生，一种镁合金薄板带坯挤压装置及挤压成型方法，中国发明专利，授权专利号：ZL201810575248.9.
+* **王庆航**, 王丽, 夏守鑫, 翟浩巍, 秦旭, 一种具有低温超塑性的粗晶镁合金. 申请号：2024109363381. 申请日：2024年07月12日（实审）
+* **王庆航**, 王丽, 夏守鑫, 翟浩巍, 秦旭, 一种差温超高速挤压镁合金的方法. 申请号：2024109363381. 申请日：2024年09月10日（实审）
+* 王丽, 翟浩巍, 孙文靖, **王庆航**, 一种可高速挤压耐热镁合金及其制备方法. 公开号：CN117286379A. 公开日：2023年12月26日（实审）
+
 
 
 
