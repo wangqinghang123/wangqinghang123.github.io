@@ -17,9 +17,9 @@ E-mail: wangqinghang@yzu.edu.cn
 * Postgraduate Research & Practice Innovation Program of Jiangsu Province (No. SJCX23-1914)
 
 ## Research Interests
-* High-speed extruded magnesium alloys
-* Sheet formability of magnesium alloys
 * Machine learning-based magnesium alloy design
+* High-speed extruded magnesium alloys
+* Magnesium-air battery
 
 ## Journal Publications
 I have published more than 60 SCI papers, of which 40 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
