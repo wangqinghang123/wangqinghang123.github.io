@@ -83,7 +83,7 @@ learning, Journal of Materials Informatics, 5 (2025) 13.
 * **王庆航**, 王丽, 夏守鑫, 翟浩巍, 秦旭, 一种差温超高速挤压镁合金的方法. 申请号：2024109363381. 申请日：2024年09月10日（实审）
 * 王丽, 翟浩巍, 孙文靖, **王庆航**, 一种可高速挤压耐热镁合金及其制备方法. 公开号：CN117286379A. 公开日：2023年12月26日（实审）
 
-
-
-
-
+## Student Training
+* Trained six master's students (Zhai Haowei, Wang Li, Qin Xu, Xia Shouxin, Long Jiabao, and Zhao Xinqian), one of whom (Zhai Haowei) has obtained a master's degree.
+* Recipients of the National Scholarship for Master's Students: Zhai Haowei (2023 and 2024), Wang Li (2024), and Qin Xu (2024).
+* Overseas further education: Zhai Haowei (Pohang University of Science and Technology, South Korea), Wang Li (Madrid Institute for Advanced Studies of Materials, Spain), and Qin Xu (Pohang University of Science and Technology, South Korea).
