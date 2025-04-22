@@ -85,5 +85,5 @@ learning, Journal of Materials Informatics, 5 (2025) 13.
 
 ## Student Training
 * Trained six master's students (Zhai Haowei, Wang Li, Qin Xu, Xia Shouxin, Long Jiabao, and Zhao Xinqian), one of whom (Zhai Haowei) has obtained a master's degree.
-* Recipients of the National Scholarship for Master's Students: Zhai Haowei (2023 and 2024), Wang Li (2024), and Qin Xu (2024).
+* Recipients of the National Scholarship for Master's Students: Zhai Haowei (2022 and 2023), Wang Li (2024), and Qin Xu (2024).
 * Overseas further education: Zhai Haowei (Pohang University of Science and Technology, South Korea), Wang Li (Madrid Institute for Advanced Studies of Materials, Spain), and Qin Xu (Pohang University of Science and Technology, South Korea).
