@@ -23,7 +23,7 @@ E-mail: wangqinghang@yzu.edu.cn
 * High-speed extruded magnesium alloys
 
 ## Journal Publications
-I have published more than 60 SCI papers, of which 40 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
+I have published more than 60 SCI papers, of which 40 published as the first author/corresponding author, in Scripta Materialia, Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
 ### 2025
 * Xu Qin, **Qinghang Wang***, Xinqian Zhao, Shouxin Xia, Li Wang, Yuhui Zhang, Chao He, Daolun Chen, Bin Jiang, PCS: Property-composition-structure chain in Mg-Nd alloys through integrating sigmoid fitting and conditional generative adversarial network modeling, Scripta Materialia, 265 (2025) 116762.
 * Li Wang, Shouxin Xia, **Qinghang Wang***, Xu Qin, Bin Jiang, Simultaneously enhancing the mechanical properties and corrosion resistance in a selective laser melting AZ91 magnesium alloy by hot rolling and subsequent annealing, Journal of Materials Research and Technology, 36 (2025) 8503-8516.
