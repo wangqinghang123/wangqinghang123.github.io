@@ -18,9 +18,9 @@ E-mail: wangqinghang@yzu.edu.cn
 
 ## Research Interests
 * Machine learning-based magnesium alloy design
-* High-speed extruded magnesium alloys
 * Corrosion-resistant Magnesium alloys
 * Magnesium-air battery
+* High-speed extruded magnesium alloys
 
 ## Journal Publications
 I have published more than 60 SCI papers, of which 40 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
@@ -78,7 +78,7 @@ learning, Journal of Materials Informatics, 5 (2025) 13.
 * **Qinghang Wang**, Bin Jiang*, Aitao Tang, Shaoxing Ma, Zhongtao Jiang, Yanfu Chai, Bo Liu, Fusheng Pan, Ameliorating the mechanical properties of magnesium alloy: Role of texture, Materials Science and Engineering: A, 689 (2017) 395-403.
 ### 2016
 * **Qinghang Wang**, Bin Jiang*, Yanfu Chai, Bo Liu, Shaoxing Ma, Jun Xu, Fusheng Pan, Tailoring the textures and mechanical properties of AZ31 alloy sheets using asymmetric composite extrusion, Materials Science and Engineering: A, 673 (2016) 606-615.
-* Fusheng Pan, **Qinghang Wang**, Bin Jiang, Junjie He, Yanfu Chai, Jun Xu, An effective approach called the composite extrusion to improve the mechanical properties of AZ31 magnesium alloy sheets, Materials Science and Engineering: A, 655 (2016) 339-345.
+* Fusheng Pan, **Qinghang Wang**, Bin Jiang*, Junjie He, Yanfu Chai, Jun Xu, An effective approach called the composite extrusion to improve the mechanical properties of AZ31 magnesium alloy sheets, Materials Science and Engineering: A, 655 (2016) 339-345.
 
 ## Patents
 * 蒋斌，徐军，**王庆航**，赵俊，柴炎福，黄光胜，张丁非，王敬丰，彭建，潘复生，一种镁合金薄板带坯挤压装置及挤压成型方法，中国发明专利，授权专利号：ZL201810575248.9.
