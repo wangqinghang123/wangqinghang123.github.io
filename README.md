@@ -19,11 +19,14 @@ E-mail: wangqinghang@yzu.edu.cn
 ## Research Interests
 * Machine learning-based magnesium alloy design
 * High-speed extruded magnesium alloys
+* Corrosion-resistant Magnesium alloys
 * Magnesium-air battery
 
 ## Journal Publications
 I have published more than 60 SCI papers, of which 40 published as the first author/corresponding author, in Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
 ### 2025
+* Xu Qin, **Qinghang Wang***, Xinqian Zhao, Shouxin Xia, Li Wang, Yuhui Zhang, Chao He, Daolun Chen, Bin Jiang, PCS: Property-composition-structure chain in Mg-Nd alloys through integrating sigmoid fitting and conditional generative adversarial network modeling, Scripta Materialia, 265 (2025) 116762.
+* Li Wang, Shouxin Xia, **Qinghang Wang***, Xu Qin, Bin Jiang, Simultaneously enhancing the mechanical properties and corrosion resistance in a selective laser melting AZ91 magnesium alloy by hot rolling and subsequent annealing, Journal of Materials Research and Technology, 36 (2025) 8503-8516.
 * **Qinghang Wang***, Xu Qin, Shouxin Xia, Li Wang, Weiqi Wang, Weiying Huang,Yan Song, Weineng Tang, Daolun Chen, Interpretable machine learning excavates a low-alloyed magnesium alloy with strength-ductility synergy based on data augmentation and reconstruction, Journal of Magnesium and Alloys, 2025, https://doi.org/10.1016/j.jma.2025.01.003
 * Xu Qin, **Qinghang Wang***, Xinqian Zhao, Shouxin Xia, Li Wang, Jiabao Long, Yuhui Zhang, Bin Jiang, A property-oriented self-decision design strategy of low-alloyed rare earth-free magnesium alloys with a good strength-ductility synergy based on machine
 learning, Journal of Materials Informatics, 5 (2025) 13.
@@ -84,6 +87,6 @@ learning, Journal of Materials Informatics, 5 (2025) 13.
 * 王丽, 翟浩巍, 孙文靖, **王庆航**, 一种可高速挤压耐热镁合金及其制备方法. 公开号：CN117286379A. 公开日：2023年12月26日（实审）
 
 ## Student Training
-* Trained six master's students (Zhai Haowei, Wang Li, Qin Xu, Xia Shouxin, Long Jiabao, and Zhao Xinqian), one of whom (Zhai Haowei) has obtained a master's degree.
-* Recipients of the National Scholarship for Master's Students: Zhai Haowei (2022 and 2023), Wang Li (2024), and Qin Xu (2024).
-* Overseas further education: Zhai Haowei (Pohang University of Science and Technology, South Korea), Wang Li (Madrid Institute for Advanced Studies of Materials, Spain), and Qin Xu (Pohang University of Science and Technology, South Korea).
+* Trained six master's students (Haowei Zhai, Li Wang, Xu Qin, Shouxin Xia, Jiabao Long, and Xinqian Zhao), one of whom (Haowei Zhai) has obtained a master's degree.
+* Recipients of the National Scholarship for Master's Students: Haowei Zhai (2022 and 2023), Li Wang (2024), and Xu Qin (2024).
+* Overseas further education: Haowei Zhai (Pohang University of Science and Technology, South Korea), Li Wang (Madrid Institute for Advanced Studies of Materials, Spain), and Xu Qin (Pohang University of Science and Technology, South Korea).
