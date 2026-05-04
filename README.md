@@ -23,7 +23,7 @@ E-mail: wangqinghang@yzu.edu.cn
 * High-speed extruded magnesium alloys
 
 ## Journal Publications
-I have published more than 80 SCI papers, of which 54 published as the first author/corresponding author, in Scripta Materialia, Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
+I have published more than 80 SCI papers, of which 54 published as the first author/corresponding author, in Acta Materialia, Scripta Materialia, Journal of Magnesium and Alloys, Journal of Materials Science & Technology, Journal of Alloys and Compounds, Materials Science and Engineering: A, Journal of Materials Research and Technology and Journal of Materials Science etc.
 ### 2026
 * Yuhui Zhang, Dongfa Qiao, Yangbo Wu, Yanling Hu, Yurong Wu, **Qinghang Wang***, Improving Alloy Mechanical Property Prediction by Addressing Data Homogeneity through Noise Augmentation, Journal of Materials Engineering and Performance, 2026, https://doi.org/10.1007/s11665-026-14020-9
 * Jiabao Long, Shouxin Xia, **Qinghang Wang***, Yanfu Chai, Tao Wu, Dabiao Xia, Bingchun Jiang, Bin Jiang, Advances in the synergistic optimization of corrosion resistance and biocompatibility of WE43 alloy based on surface modification strategies: A review, Surfaces and Interfaces, 2026, https://doi.org/10.1016/j.surfin.2026.109463
